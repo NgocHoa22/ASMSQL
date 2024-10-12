@@ -1,0 +1,15 @@
+H:\study winform\ASMM\ASMM\bin\Debug\ASMM.exe.config
+H:\study winform\ASMM\ASMM\bin\Debug\ASMM.exe
+H:\study winform\ASMM\ASMM\bin\Debug\ASMM.pdb
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.csproj.AssemblyReference.cache
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.Login.resources
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.Properties.Resources.resources
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.csproj.GenerateResource.cache
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.csproj.CoreCompileInputs.cache
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.exe
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.pdb
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.Main.resources
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.Product.resources
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.Customer.resources
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.Employee.resources
+H:\study winform\ASMM\ASMM\obj\Debug\ASMM.Form1.resources
